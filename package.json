@@ -5,14 +5,14 @@
   "author": "Leo Unbekandt <leo@scalingo.com>",
   "license": "BSD",
   "engines": {
-    "node": "v16.18.0"
+    "node": "v20.19.6"
   },
   "dependencies": {
     "bower": "^1.8.14",
-    "gulp": "^4.0.2",
-    "gulp-sass": "5.1.0"
+    "gulp": "^5.0.1",
+    "gulp-sass": "6.0.1"
   },
   "devDependencies": {
-    "sass": "^1.57.1"
+    "sass": "^1.97.2"
   }
 }
